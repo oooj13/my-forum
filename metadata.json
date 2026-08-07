@@ -1,0 +1,6 @@
+{
+  "name": "게시판 커뮤니티",
+  "description": "Node.js Express와 React 기반의 게시글 작성, 조회, 댓글 및 대댓글 기능이 포함된 깔끔한 게시판 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
